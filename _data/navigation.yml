@@ -1,0 +1,8 @@
+- link: "/"
+  name: MP1
+- link: "/annonces.html"
+  name: Annonces
+- link: "/kholles.html"
+  name: Questions de khôlles
+- link: "/about.html"
+  name: À propos

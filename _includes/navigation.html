@@ -1,0 +1,11 @@
+<nav>
+  {% for item in site.data.navigation %}
+    <a
+      href={{item.link}}
+      class="subnav"
+      {% if page.url == item.link %} id="current_nav" {% endif %}>
+      {{item.name}}
+      </a>
+    &emsp;
+  {% endfor %}
+</nav>

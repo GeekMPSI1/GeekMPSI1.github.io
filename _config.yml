@@ -1,0 +1,11 @@
+# Site settings
+title: MP1 de Fermat
+email: geekMPSI1@proton.me
+description: >
+  Site officieux pour la MPSI1 de Fermat
+
+baseurl: "" # the subpath of the site
+url: "http://GeekMPSI1.github.io"
+github_username: GeekMPSI1
+
+include: [ robots.txt ]
