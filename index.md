@@ -33,17 +33,17 @@ La meilleure classe de Fermat en toute objectivité.
 >
 > &nbsp;
 >
-> GGO : MP
+> GGOs : MP
 >
 > Classe : Uuunn
 >
-> GGO : CHIMIE
+> GGOs : CHIMIE
 >
 > Classe : FUCK &#x1F595;
 >
-> GGO : MP
+> GGOs : MP
 >
-> GGette : cri aigu &hellip;
+> GGette bis : cri aigu &hellip;
 >
 > &nbsp;
 >
